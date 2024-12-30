@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="alch3my"
+           fetch="https://github.com/"
+           sync-c="true"
+           sync-j="4"
+           revision="refs/heads/15" />
+
+  <project path="frameworks/base" name="Team-Alch3myOS/android_frameworks_base" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="alch3my" />
+
+</manifest>
